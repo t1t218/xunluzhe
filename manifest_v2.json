@@ -1,0 +1,38 @@
+{
+  "item": {
+    "id": "979868498959",
+    "restype": "watchface",
+    "name": "寻路者",
+    "description": "一款数据多功能表盘，拥有3种样式，3种配色和4种刻度样式",
+    "preview": [
+      "media/容器 98.png",
+      "media/容器 99.png",
+      "media/容器 100.png"
+    ],
+    "icon": "media/分组 40.png",
+    "cover": "media/容器 98.png",
+    "author": [
+      {
+        "name": "lite",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "交流群",
+      "url": "https://qm.qq.com/q/jQdfXT4cpi",
+      "icon": "chats-circle"
+    }
+  ],
+  "downloads": {
+    "xmb10p": {
+      "version": "1.0.0",
+      "file_name": "downloads/resource.bin",
+      "versionCode": 65536
+    }
+  },
+  "ext": {
+    "enableAstroBoxCreatorFeatures": true
+  }
+}
